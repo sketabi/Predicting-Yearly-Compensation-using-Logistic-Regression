@@ -5,7 +5,7 @@ The highest acheived f1-score is: 0.539125208018121
 
 Parameters corresponding to the optimal f1-score are:
 
-  c (the parameter that is inversely proportional to the strength of the regularization used in the loss function): 0.01 
+    c (the parameter that is inversely proportional to the strength of the regularization used in the loss function): 0.01 
   
-  solver(the type of algorithm used in computations of the optimal cost function): newton-cg
+    solver(the type of algorithm used in computations of the optimal cost function): newton-cg
   
